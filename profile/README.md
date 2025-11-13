@@ -42,7 +42,6 @@ Local Court: **Offenbach am Main**
 Commercial Register No: **58360**  
 📫 **Frankfurt, Germany**
 
-🕒 **Days Open:** Monday – Friday | 09:00 AM – 06:00 PM  
 📧 **Email:** [info@nexomira.com](mailto:info@nexomira.com)
 
 ---
@@ -56,14 +55,6 @@ Commercial Register No: **58360**
 
 ---
 
-## 🧩 Featured Projects
-| Project | Description |
-|----------|-------------|
-| 🔧 [AAOS Platform](https://github.com/NexoMira-Technologies/aaos-platform) | Android Automotive build and integration environment |
-| 📱 [Mobile App Suite](https://github.com/NexoMira-Technologies/mobile-apps) | Companion applications for mobility and diagnostics |
-| 🧪 [Simulation Environment](https://github.com/NexoMira-Technologies/simulation-env) | Restbus and virtual ECU testing frameworks |
-
----
 
 <p align="center">
   <sub>© 2025 NexoMira Technologies GmbH — All rights reserved.</sub>
