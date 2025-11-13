@@ -3,7 +3,7 @@
   <img src="https://github.com/NexoMira-Technologies/.github/blob/main/n.png?raw=true" alt="NexoMira Logo" width="160">
 </p>
 
-<h1 align="center">🚘 NexoMira Technologies</h1>
+<h1 align="center"> NexoMira Technologies</h1>
 
 <p align="center">
   <em>Driving the future of mobility with advanced platform software for the next generation of vehicles.</em>
