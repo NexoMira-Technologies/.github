@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/NexoMira-Technologies/.github/blob/main/profile/n.png?raw=true" alt="NexoMira Logo" width="160">
+  <img src="https://github.com/NexoMira-Technologies/.github/blob/main/n.png?raw=true" alt="NexoMira Logo" width="160">
 </p>
 
 <h1 align="center">🚘 NexoMira Technologies</h1>
