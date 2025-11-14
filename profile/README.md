@@ -62,7 +62,7 @@ Commercial Register No: **58360**
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/NexoMira-Technologies/.github/blob/main/n.png" align="center" style="width: 100%" />
+<img src="https://github.com/NexoMira-Technologies/.github/blob/main/m.avif" align="center" style="width: 100%" />
 </div>  
 
 
