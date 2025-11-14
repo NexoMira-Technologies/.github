@@ -16,7 +16,7 @@
 
 
 
-### About Us
+### 🌍 About Us
 NexoMira is a software technology startup building advanced platform software solutions for next-generation mobility.  
 With a global vision to lead the Software Defined Vehicle (SDV) space, we blend innovation, efficiency, and high-quality engineering to deliver cutting-edge automotive software.  
   
@@ -117,7 +117,7 @@ Commercial Register No: **58360**
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<!-- This is a commen<table><tr><td valign="top" width="50%"> --!>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -125,7 +125,7 @@ Commercial Register No: **58360**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+<!-- This is a</td></tr></table>  --!>
 
 <br/>  
 
