@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/NexoMira-Technologies/.github/blob/main/n.png?raw=true" alt="NexoMira Logo" width="160">
 </p>
-## <div align="center">NexoMira-Technologies</div>  
+
   
 
 <div align="center">
