@@ -14,20 +14,20 @@
 </div>  
   
 
-### 🌍 About Us
+### About Us
 NexoMira is a software technology startup building advanced platform software solutions for next-generation mobility.  
 With a global vision to lead the Software Defined Vehicle (SDV) space, we blend innovation, efficiency, and high-quality engineering to deliver cutting-edge automotive software.  
   
 <br/>  
  
 <!-- This is a comment<table><tr><td valign="top" width="50%"> -->
-### 🎯Our Vision 
+### Our Vision 
 To revolutionize mobility through innovation, integrity, and scalable solutions that deliver lasting impact and value.  
   
 
 
 
-### 🚀Our Mission  
+### Our Mission  
 At NexoMira, we embrace innovation, adapt to rapid technological shifts, and build scalable platforms that drive performance and efficiency.  
 With a commitment to trust and transparency, we focus on delivering excellence, measurable results, and long-term value for our partners and customers.
   
@@ -35,7 +35,7 @@ With a commitment to trust and transparency, we focus on delivering excellence, 
 
 
 
-### 🧠 What We Do  
+###  What We Do  
  **Platform Engineering** – Software architectures for SDV and connected mobility  
  **Automotive Software Development** – End-to-end solutions across infotainment and embedded systems  
  **Cloud Integration** – Scalable cloud platforms for automotive data and simulation  
@@ -44,11 +44,11 @@ With a commitment to trust and transparency, we focus on delivering excellence, 
 
 
 
-### 📍 Head Office  
+###  Head Office  
 **NexoMira Technologies GmbH**  
 Local Court: **Offenbach am Main**  
 Commercial Register No: **58360**  
-📫 **Frankfurt, Germany**  
+**Frankfurt, Germany**  
 
 
 <!--</td><td valign="top" width="50%">  -->
