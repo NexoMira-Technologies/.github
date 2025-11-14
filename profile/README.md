@@ -24,7 +24,7 @@ With a global vision to lead the Software Defined Vehicle (SDV) space, we blend 
 <br/>  
 
 
-## Rapidfire  
+ 
 <table><tr><td valign="top" width="50%">
 
 
