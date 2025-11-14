@@ -21,13 +21,13 @@ With a global vision to lead the **Software Defined Vehicle (SDV)** space, we bl
 ## 🎯 Our Vision
 > *To revolutionize mobility through innovation, integrity, and scalable solutions that deliver lasting impact and value.*
 
----
+
 
 ## 🚀 Our Mission
 At **NexoMira**, we embrace innovation, adapt to rapid technological shifts, and build **scalable platforms** that drive performance and efficiency.  
 With a commitment to **trust** and **transparency**, we focus on delivering **excellence**, measurable results, and long-term value for our partners and customers.
 
----
+
 
 ## 🧠 What We Do
 - 🧩 **Platform Engineering** – Software architectures for SDV and connected mobility  
@@ -35,7 +35,7 @@ With a commitment to **trust** and **transparency**, we focus on delivering **ex
 - ☁️ **Cloud Integration** – Scalable cloud platforms for automotive data and simulation  
 - 🔐 **System Reliability & Security** – Ensuring robustness and compliance across mobility stacks  
 
----
+
 
 ## 📍 Head Office
 **NexoMira Technologies GmbH**  
@@ -45,7 +45,7 @@ Commercial Register No: **58360**
 
 📧 **Email:** [info@nexomira.com](mailto:info@nexomira.com)
 
----
+
 
 ## 💡 Connect With Us
 <p align="center">
