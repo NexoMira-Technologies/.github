@@ -36,10 +36,10 @@ With a commitment to trust and transparency, we focus on delivering excellence, 
 
 
 ### 🧠 What We Do  
-🧩 **Platform Engineering** – Software architectures for SDV and connected mobility  
-🛠️ **Automotive Software Development** – End-to-end solutions across infotainment and embedded systems  
-☁️ **Cloud Integration** – Scalable cloud platforms for automotive data and simulation  
-🔐 **System Reliability & Security** – Ensuring robustness and compliance across mobility stacks   
+ **Platform Engineering** – Software architectures for SDV and connected mobility  
+ **Automotive Software Development** – End-to-end solutions across infotainment and embedded systems  
+ **Cloud Integration** – Scalable cloud platforms for automotive data and simulation  
+ **System Reliability & Security** – Ensuring robustness and compliance across mobility stacks   
   
 
 
