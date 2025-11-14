@@ -20,8 +20,7 @@ With a global vision to lead the Software Defined Vehicle (SDV) space, we blend 
   
 <br/>  
  
-<!-- This is a comment
-<table><tr><td valign="top" width="50%"> -->
+<!-- This is a comment<table><tr><td valign="top" width="50%"> -->
 ### 🎯Our Vision 
 To revolutionize mobility through innovation, integrity, and scalable solutions that deliver lasting impact and value.  
   
