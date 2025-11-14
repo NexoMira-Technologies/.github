@@ -25,7 +25,8 @@ With a global vision to lead the Software Defined Vehicle (SDV) space, we blend 
 
 
  
-#<table><tr><td valign="top" width="50%">
+<!-- This is a comment
+<table><tr><td valign="top" width="50%"> -->
 
 
 
@@ -66,7 +67,7 @@ Commercial Register No: **58360**
 </div>  
 
 
-#</td></tr></table>  
+<!-- This is a comment#</td></tr></table>   -->
 
 <br/>  
 
