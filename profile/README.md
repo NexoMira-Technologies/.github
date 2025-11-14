@@ -116,25 +116,8 @@ Commercial Register No: **58360**
 <br/>  
 
 
-## Github Stats  
-<!-- This is a commen<table><tr><td valign="top" width="50%"> --!>
 
 
-<!-- This is a commen</td><td valign="top" width="50%"> --!>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-<!-- This is a</td></tr></table>  --!>
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
 <br />
