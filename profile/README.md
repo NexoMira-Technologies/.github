@@ -87,8 +87,9 @@ Commercial Register No: **58360**
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />
 </a>
 <a href="https://www.rust-lang.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-original.svg" alt="Rust" height="25" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="25" />
 </a>
+
 
 </div>  
 
