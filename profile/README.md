@@ -44,7 +44,7 @@ With a commitment to trust and transparency, we focus on delivering excellence, 
 
 
 
-###  Head Office  
+### 📍 Head Office  
 **NexoMira Technologies GmbH**  
 Local Court: **Offenbach am Main**  
 Commercial Register No: **58360**  
