@@ -119,9 +119,8 @@ Commercial Register No: **58360**
 ## Github Stats  
 <!-- This is a commen<table><tr><td valign="top" width="50%"> --!>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<!-- This is a commen</td><td valign="top" width="50%"> --!>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
@@ -133,7 +132,6 @@ Commercial Register No: **58360**
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
@@ -142,4 +140,3 @@ Commercial Register No: **58360**
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
