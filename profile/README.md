@@ -1,8 +1,11 @@
+<p align="center">
+<img src="https://github.com/NexoMira-Technologies/.github/blob/main/n.png?raw=true" alt="NexoMira Logo" width="160">
+</p>
 ## <div align="center">NexoMira-Technologies</div>  
   
 
 <div align="center">
-<a href="https://github.com/NexoMira" target="_blank">
+<a href="https://github.com/NexoMira-Technologies" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/NexoMira" target="_blank">
