@@ -45,7 +45,7 @@ With a commitment to trust and transparency, we focus on delivering excellence, 
 
 
 ### 📍 Head Office  
-**NexoMira Technologies GmbH**    
+**NexoMira Technologies**    
 **Frankfurt, Germany**  
 
 
